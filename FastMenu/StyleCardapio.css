@@ -1,0 +1,1938 @@
+@font-face {
+    font-family: 'Bauhaus 93';
+    src: url(fonts/Bauhaus\ 93\ Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Bayon';
+    src: url(fonts/Bayon-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'B612';
+    src: url(fonts/B612-Regular.ttf);
+}
+
+body {
+    margin: 0%;
+}
+
+.desktop-cardapio-edit-Kxz {
+    align-items: center;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    padding-bottom: 7.5rem;
+    position: relative;
+    width: 100%;
+}
+
+.topicon-iVL {
+    align-items: center;
+    background-color: #2384bb;
+    color: #f0f0f0;
+    display: flex;
+    flex-shrink: 0;
+    font-family: 'Bauhaus 93', 'Regular';
+    font-size: 6.4rem;
+    font-weight: 400;
+    height: 7.5rem;
+    justify-content: center;
+    letter-spacing: -0.544rem;
+    line-height: 0.7404491901;
+    margin-bottom: 2.8rem;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.cardapio-2nr {
+    align-items: center;
+    color: #000000;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 6.4rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.16rem;
+    line-height: 0.9866406322;
+    margin-bottom: 5.4rem;
+    white-space: nowrap;
+}
+
+.group-18-jSN {
+    cursor: pointer;
+    flex-shrink: 0;
+    height: 78.4rem;
+    margin-right: 119.4rem;
+    position: relative;
+    width: 62.4rem;
+}
+
+.component-6-item-1-1en {
+    height: 14.4rem;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 14.4rem;
+}
+
+.basegraphics-vmk {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-fthu-fjL {
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 14.45rem;
+}
+
+.rectangle-25-CjG {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    height: 10.8rem;
+    left: 9.6rem;
+    position: absolute;
+    top: 0;
+    width: 4.8rem;
+}
+
+.rectangle-29-5wU {
+    background-image: url(img/Burger01.png);
+    background-position: -0.6477rem -0.0238rem;
+    background-size: 202.875% 100.347%;
+    border-radius: 1.5rem 0 0 0;
+    height: 10.8rem;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 9.6rem;
+}
+
+.text-9gS {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 7rem;
+    left: 9.55rem;
+    position: absolute;
+    top: 1.3rem;
+    width: 4.9rem;
+}
+
+.r-69-ssL {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.8rem;
+    white-space: nowrap;
+}
+
+.whopper-BNE {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    white-space: nowrap;
+}
+
+.auto-group-yqwi-Gea {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-2-79Q {
+    height: 14.4rem;
+    left: 16rem;
+    position: absolute;
+    top: 0;
+    width: 14.4rem;
+}
+
+.basegraphics-Ejp {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-nrdc-P6v {
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 14.45rem;
+}
+
+.rectangle-27-iez {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    height: 10.8rem;
+    left: 9.6rem;
+    position: absolute;
+    top: 0;
+    width: 4.8rem;
+}
+
+.rectangle-30-EtE {
+    background-image: url(img/Burger01.png);
+    background-position: -1.376rem 0;
+    background-size: 214.342% 100%;
+    border-radius: 1.5rem 0 0 0;
+    height: 10.8rem;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 9.6rem;
+}
+
+.text-8Tp {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 7.5rem;
+    left: 9.55rem;
+    position: absolute;
+    top: 1.3rem;
+    width: 4.9rem;
+}
+
+.r-69-fie {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-furioso-Pee {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-4nxg-hfL {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-3-AYv {
+    height: 14.4rem;
+    left: 32rem;
+    position: absolute;
+    top: 0;
+    width: 14.4rem;
+}
+
+.basicgraphics-hYr {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-2dnn-T2E {
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 14.45rem;
+}
+
+.rectangle-26-znr {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    height: 10.8rem;
+    left: 9.6rem;
+    position: absolute;
+    top: 0;
+    width: 4.8rem;
+}
+
+.rectangle-31-KKL {
+    border-radius: 1.5rem 0 0 0;
+    height: 10.8rem;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    vertical-align: top;
+    width: 9.6rem;
+}
+
+.text-2zS {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 7.5rem;
+    left: 9.55rem;
+    position: absolute;
+    top: 1.3rem;
+    width: 4.9rem;
+}
+
+.r-69-yPt {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-nice-u2e {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-bmpc-BVx {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-4-43x {
+    height: 14.4rem;
+    left: 48rem;
+    position: absolute;
+    top: 0;
+    width: 14.4rem;
+}
+
+.basicgraphics-CR4 {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-ydaw-xQE {
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 14.45rem;
+}
+
+.rectangle-28-HxJ {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    height: 10.8rem;
+    left: 9.6rem;
+    position: absolute;
+    top: 0;
+    width: 4.8rem;
+}
+
+.rectangle-32-RYi {
+    background-color: #d9d9d9;
+    border-radius: 1.5rem 0 0 0;
+    height: 10.8rem;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 9.6rem;
+}
+
+.text-y4S {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 7.5rem;
+    left: 9.55rem;
+    position: absolute;
+    top: 1.3rem;
+    width: 4.9rem;
+}
+
+.r-69-694 {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-ins-pKx {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-zmcj-Wia {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-1-nAJ {
+    height: 14.4rem;
+    left: 0;
+    position: absolute;
+    top: 64rem;
+    width: 14.4rem;
+}
+
+.basegraphics-ipe {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-8nr2-fzn {
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 14.45rem;
+}
+
+.rectangle-25-1Yr {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    height: 10.8rem;
+    left: 9.6rem;
+    position: absolute;
+    top: 0;
+    width: 4.8rem;
+}
+
+.rectangle-29-jze {
+    background-image: url(img/Burger01.png);
+    background-position: -0.6477rem -0.0238rem;
+    background-size: 202.875% 100.347%;
+    border-radius: 1.5rem 0 0 0;
+    height: 10.8rem;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 9.6rem;
+}
+
+.text-pmC {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 7rem;
+    left: 9.55rem;
+    position: absolute;
+    top: 1.3rem;
+    width: 4.9rem;
+}
+
+.r-69-MWE {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.8rem;
+    white-space: nowrap;
+}
+
+.whopper-tWA {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    white-space: nowrap;
+}
+
+.auto-group-m77c-1an {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-2-gB8 {
+    height: 14.4rem;
+    left: 16rem;
+    position: absolute;
+    top: 64rem;
+    width: 14.4rem;
+}
+
+.basegraphics-omY {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-sm1x-ZVp {
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 14.45rem;
+}
+
+.rectangle-27-VPU {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    height: 10.8rem;
+    left: 9.6rem;
+    position: absolute;
+    top: 0;
+    width: 4.8rem;
+}
+
+.rectangle-30-pRk {
+    background-image: url(img/Burger01.png);
+    background-position: -1.376rem 0;
+    background-size: 214.342% 100%;
+    border-radius: 1.5rem 0 0 0;
+    height: 10.8rem;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 9.6rem;
+}
+
+.text-ui6 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 7.5rem;
+    left: 9.55rem;
+    position: absolute;
+    top: 1.3rem;
+    width: 4.9rem;
+}
+
+.r-69-3ZQ {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-furioso-wug {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-qtkt-Tt2 {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-3-jae {
+    height: 14.4rem;
+    left: 32rem;
+    position: absolute;
+    top: 64rem;
+    width: 14.4rem;
+}
+
+.basicgraphics-gEz {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-56nr-dR8 {
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 14.45rem;
+}
+
+.rectangle-26-yE6 {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    height: 10.8rem;
+    left: 9.6rem;
+    position: absolute;
+    top: 0;
+    width: 4.8rem;
+}
+
+.rectangle-31-75Q {
+    border-radius: 1.5rem 0 0 0;
+    height: 10.8rem;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    vertical-align: top;
+    width: 9.6rem;
+}
+
+.text-e5L {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 7.5rem;
+    left: 9.55rem;
+    position: absolute;
+    top: 1.3rem;
+    width: 4.9rem;
+}
+
+.r-69-y7c {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-nice-Vbk {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-cd7t-DXk {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-4-VkA {
+    height: 14.4rem;
+    left: 48rem;
+    position: absolute;
+    top: 64rem;
+    width: 14.4rem;
+}
+
+.basicgraphics-2zz {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-e61u-PKk {
+    background-color: #2384bb;
+    border-radius: 1.5rem 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    padding: 1.9rem 3.6rem 1.8rem 3.7rem;
+    width: 100%;
+}
+
+.vector-vKg {
+    height: 7.1rem;
+    object-fit: contain;
+    vertical-align: top;
+    width: 7.1rem;
+}
+
+.auto-group-a3xj-T4i {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-1-gCN {
+    height: 14.4rem;
+    left: 0;
+    position: absolute;
+    top: 16rem;
+    width: 14.4rem;
+}
+
+.basegraphics-bq8 {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-pwxt-Lni {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-29-Ue2 {
+    background-image: url(img/Burger01.png);
+    background-position: -0.6477rem -0.0238rem;
+    background-size: 202.875% 100.347%;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 9.6rem;
+}
+
+.auto-group-eh1g-Ytn {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-H5g {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-SDU {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-jr-ZJ6 {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-tbcs-Ev2 {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-2-7iv {
+    height: 14.4rem;
+    left: 16rem;
+    position: absolute;
+    top: 16rem;
+    width: 14.4rem;
+}
+
+.basegraphics-36n {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-xekp-Bin {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-30-XXk {
+    background-image: url(img/Burger01.png);
+    background-position: -1.376rem 0;
+    background-size: 214.342% 100%;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 9.6rem;
+}
+
+.auto-group-tbkr-Rt2 {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 1.5rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-xd4 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-Wea {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 2.8rem;
+    white-space: nowrap;
+}
+
+.whopper-furioso-jr-qwk {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-tufk-wE6 {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-3-Cfp {
+    height: 14.4rem;
+    left: 32rem;
+    position: absolute;
+    top: 16rem;
+    width: 14.4rem;
+}
+
+.basicgraphics-vri {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-fm7k-HSN {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-31-EcW {
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 9.6rem;
+}
+
+.auto-group-gvze-Zen {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-VoL {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-4Le {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-nice-jr-zVC {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-n1tc-HjC {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-4-xqL {
+    height: 14.4rem;
+    left: 48rem;
+    position: absolute;
+    top: 16rem;
+    width: 14.4rem;
+}
+
+.basicgraphics-hnv {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-eem4-rvi {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-32-pMk {
+    background-color: #d9d9d9;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 9.6rem;
+}
+
+.auto-group-ccxg-ARc {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-4Wz {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-DPt {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-ins-jr-8Fx {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-267g-D2W {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-1-t8e {
+    height: 14.4rem;
+    left: 0;
+    position: absolute;
+    top: 32rem;
+    width: 14.4rem;
+}
+
+.basegraphics-ReN {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-383x-B7k {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-29-KUr {
+    background-image: url(img/Burger01.png);
+    background-position: -0.6477rem -0.0238rem;
+    background-size: 202.875% 100.347%;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 9.6rem;
+}
+
+.auto-group-kuni-DaE {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-Luk {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-6e2 {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-jr-pa2 {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-ppvg-KFt {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-2-nvA {
+    height: 14.4rem;
+    left: 16rem;
+    position: absolute;
+    top: 32rem;
+    width: 14.4rem;
+}
+
+.basegraphics-vmU {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-g3kl-HM8 {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-30-dft {
+    background-image: url(img/Burger01.png);
+    background-position: -1.376rem 0;
+    background-size: 214.342% 100%;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 9.6rem;
+}
+
+.auto-group-qblr-kEi {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 1.5rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-saE {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-qGA {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 2.8rem;
+    white-space: nowrap;
+}
+
+.whopper-furioso-jr-AZL {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-fumy-ezJ {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-3-88n {
+    height: 14.4rem;
+    left: 32rem;
+    position: absolute;
+    top: 32rem;
+    width: 14.4rem;
+}
+
+.basicgraphics-GEz {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-1kna-d5Y {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-31-BMx {
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 9.6rem;
+}
+
+.auto-group-puvx-uYr {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-2tN {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-CH4 {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-nice-jr-Kca {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-ddb4-DCA {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-4-HSv {
+    height: 14.4rem;
+    left: 48rem;
+    position: absolute;
+    top: 32rem;
+    width: 14.4rem;
+}
+
+.basicgraphics-2QW {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-mtvn-BHQ {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-32-vkn {
+    background-color: #d9d9d9;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 9.6rem;
+}
+
+.auto-group-ncog-U1c {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-QAA {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-N6z {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-ins-jr-tr2 {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-uj7c-CLv {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-1-Tne {
+    height: 14.4rem;
+    left: 0;
+    position: absolute;
+    top: 48rem;
+    width: 14.4rem;
+}
+
+.basegraphics-oLi {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-xnln-9fU {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-29-uPk {
+    background-image: url(img/Burger01.png);
+    background-position: -0.6477rem -0.0238rem;
+    background-size: 202.875% 100.347%;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 9.6rem;
+}
+
+.auto-group-mvxn-oEE {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-KyG {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-VMx {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-jr-pf8 {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-3ruy-78S {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-2-aXp {
+    height: 14.4rem;
+    left: 16rem;
+    position: absolute;
+    top: 48rem;
+    width: 14.4rem;
+}
+
+.basegraphics-upz {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-gu78-Tbc {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-30-Qmk {
+    background-image: url(img/Burger01.png);
+    background-position: -1.376rem 0;
+    background-size: 214.342% 100%;
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    position: relative;
+    width: 9.6rem;
+}
+
+.auto-group-e2py-Hae {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 1.5rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-22S {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-aJr {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 2.8rem;
+    white-space: nowrap;
+}
+
+.whopper-furioso-jr-KpA {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-y8sa-RcJ {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-3-V6N {
+    height: 14.4rem;
+    left: 32rem;
+    position: absolute;
+    top: 48rem;
+    width: 14.4rem;
+}
+
+.basicgraphics-pPY {
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.auto-group-rmee-xVk {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    height: 10.8rem;
+    width: 100%;
+}
+
+.rectangle-31-7Ne {
+    border-radius: 1.5rem 0 0 0;
+    flex-shrink: 0;
+    height: 10.8rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 9.6rem;
+}
+
+.auto-group-pure-TBc {
+    background-color: #2384bb;
+    border-radius: 0 1.5rem 0 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    height: 100%;
+    padding: 1.3rem 0.1rem 2rem 0.1rem;
+    width: 4.8rem;
+}
+
+.text-an2 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.r-12-kAi {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    justify-content: center;
+    line-height: 0.9116406441;
+    margin-bottom: 3.3rem;
+    white-space: nowrap;
+}
+
+.whopper-nice-jr-U6i {
+    align-items: center;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: B612, 'Regular';
+    font-size: 1.2rem;
+    font-weight: 400;
+    justify-content: center;
+    letter-spacing: -0.084rem;
+    line-height: 0.8216406504;
+    max-width: 4.6rem;
+}
+
+.auto-group-pcwa-mbc {
+    align-items: center;
+    background-color: #2384bb;
+    border-radius: 0 0 1.5rem 1.5rem;
+    color: #ffffff;
+    display: flex;
+    flex-shrink: 0;
+    font-family: Bayon, 'Regular';
+    font-size: 2.4rem;
+    font-weight: 400;
+    height: 3.6rem;
+    justify-content: center;
+    line-height: 0.9116406441;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.component-6-item-4-qLa {
+    height: 14.4rem;
+    left: 48rem;
+    object-fit: contain;
+    position: absolute;
+    top: 48rem;
+    vertical-align: top;
+    width: 14.4rem;
+}
